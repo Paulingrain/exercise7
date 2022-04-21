@@ -1,0 +1,75 @@
+.baby1{
+    width: 200px;
+    border-radius: 6px;
+}
+
+.baby2{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    margin-left: 10px;
+    
+}
+.email{
+    margin-bottom: 0px;
+}
+
+.placeholder{
+    margin-top: 15px;
+}
+.search{
+    border-radius: 5px;
+    margin-right: 15px;
+    vertical-align: middle;
+}
+.google{
+    border: none; 
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.15); 
+    border-radius: 6px;
+    padding: 6px 10px;
+    vertical-align: middle;
+}
+
+.baby3{
+    width: 200px;
+   border-radius: 150px;
+   margin-top: 15px;
+   margin-bottom: 15px;}
+
+   
+   .by{
+       font-size: small;
+       color: gray;
+   }
+
+   .agree{
+    font-size: 13px;
+    background-color: rgb(29, 155, 240);
+    color: white;
+    padding: 10px 80px;
+    border: none;
+    font-weight: bold;
+    border-radius: 50px;
+    margin-bottom: 20px;
+   }
+   .baby4{
+    width: 50px;
+    border-radius:25px;
+    vertical-align: middle;
+}
+
+    .twitter{
+        font-size: 11px;
+    background-color: rgb(29, 155, 240);
+    color: white;
+    padding: 6px 10px;
+    border: none;
+    font-weight: bold;
+    border-radius: 50px; 
+    vertical-align: middle;
+    }
+    .happening{
+        border: none;
+        vertical-align: middle;
+    }
